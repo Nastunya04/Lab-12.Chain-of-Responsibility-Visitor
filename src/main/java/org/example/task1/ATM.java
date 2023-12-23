@@ -1,4 +1,7 @@
 package org.example.task1;
+import org.example.trays.Tray100;
+import org.example.trays.Tray50;
+import org.example.trays.Tray2;
 
 public class ATM {
     public Tray firstTray;
